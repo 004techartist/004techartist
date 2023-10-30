@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on development of programs written in C language,python,HTML& CSS
 - 📫 How to reach me ...
 - You can reach me through my email that is:murithikelvin595@gmail.com/kelvnmurithi254@gmail.com or simply
-- through my phone number 0112436792 and on watsup 0714036568 
+- through my phone number 0112436792 and on watsup 0714056836 
 
 <!---
 004techartist/004techartist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

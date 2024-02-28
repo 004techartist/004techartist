@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning bachelor of science in software engineering at Zetech University.
 - 💞️ I’m looking to collaborate on development of programs written in C language,python,HTML& CSS
 - 📫 How to reach me ...
-- You can reach me through my email that is: 004techartist or simply
+- You can reach me through my email that is: 004techartist@gmail.com or simply
 - through my phone number 0112436792 and on watsup 0714056836 
 
 <!---
